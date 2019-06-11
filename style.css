@@ -1,0 +1,87 @@
+h1 {font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    }
+    span {background-color: #4aaaa5;
+    color: white;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;}
+    ul {float: right;
+         list-style: outside none none;
+        margin: 0px;
+        padding: 0px}
+    li {display: inline;}
+    .adam {float: left;
+        height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    position: relative;
+    border-style: solid;
+    border-color: lightcyan;
+    border-width: 15px;
+    }
+    .coding {height: 200px;
+        width: 200px;
+        position: relative;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 20px;
+        margin-left: 20x;}
+    .yardwork {height: 200px;
+        width:200px;
+        position: relative;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 20px;
+        margin-left: 20x;}
+    .chiefs {height: 200px;
+        width:200px;
+        position: relative;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 20px;
+        margin-left: 20x;}
+    .sleep {height: 200px;
+        width:200px;
+        position: relative;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 20px;
+        margin-left: 20x;}  
+    
+    footer {position:relative;
+        height: 50px;
+        font-size: 20px;
+        color: #cccccc;
+        text-align: center; 
+        background-color: #666666;
+        border-top: 20px;
+        border-color: #4aaaa5}
+    .content {
+        width: 960px;
+        margin: auto;
+        background: white;
+        padding: 10px;
+        border-style: solid;
+        border-color: #dddddd;
+        border-bottom-color: #4aaaa5;
+        border-bottom-width: 10px
+        }
+    p {font-family: Arial, Helvetica, sans-serif;
+    position: relative}
+    body {background-image: url("C:\Users\adamn\Desktop\homework\Bootstrap-Portfolio\pics\beige-tiles.png")}
+    figcaption {background-color: #4aaaa5; 
+    display: inline-block}
+    .nav-link {background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: right}
+    .navbar-brand {font-size: 50px}
+    .blue {color:blue}
+    .green {color: green}
+    .red {color: red}
+    .orange {color: orange}
+    .yellow {color: goldenrod}
+    .form-group {background-color:bisque }
