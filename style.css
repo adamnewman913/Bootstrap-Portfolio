@@ -1,5 +1,10 @@
-h1 {font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #ffffff;
+h1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightblue;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    border-style: solid;
+    border-color: black; 
     }
     span {background-color: #4aaaa5;
     color: white;
@@ -12,16 +17,17 @@ h1 {font-family: Georgia, 'Times New Roman', Times, serif;
         margin: 0px;
         padding: 0px}
     li {display: inline;}
-    .adam {float: left;
-        height: 250px;
+    #adam {float: left;
+        height: 300px;
+        width: 250px;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 20px;
     margin-left: 20px;
     position: relative;
     border-style: solid;
-    border-color: lightcyan;
-    border-width: 15px;
+    border-color: black;
+    border-width: 11px;
     }
     .coding {height: 200px;
         width: 200px;
@@ -66,16 +72,13 @@ h1 {font-family: Georgia, 'Times New Roman', Times, serif;
         background: white;
         padding: 10px;
         border-style: solid;
-        border-color: #dddddd;
-        border-bottom-color: #4aaaa5;
-        border-bottom-width: 10px
+        border-color: black;
         }
     p {font-family: Arial, Helvetica, sans-serif;
     position: relative}
-    body {background-image: url("C:\Users\adamn\Desktop\homework\Bootstrap-Portfolio\pics\beige-tiles.png")}
     figcaption {background-color: #4aaaa5; 
     display: inline-block}
-    .nav-link {background-color: black;
+    .nav-link {background-color:white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: right}
     .navbar-brand {font-size: 50px}
@@ -85,3 +88,9 @@ h1 {font-family: Georgia, 'Times New Roman', Times, serif;
     .orange {color: orange}
     .yellow {color: goldenrod}
     .form-group {background-color:bisque }
+    .navbar-brand {color: red}
+    .card {float: right;
+    border-width: 10px;
+border-color: palegoldenrod;
+    }
+body {background-image: url("C:\Users\adamn\Desktop\homework\Bootstrap-Portfolio\assets\images\high-resolution-grey-brick-texture-thumb34.jpg")} 
