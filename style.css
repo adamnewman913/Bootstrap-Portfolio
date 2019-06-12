@@ -24,10 +24,10 @@ h1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
     margin-bottom: 20px;
     margin-right: 20px;
     margin-left: 20px;
-    position: relative;
+    position: static;
     border-style: solid;
     border-color: black;
-    border-width: 11px;
+    border-width: 8px;
     }
     .coding {height: 200px;
         width: 200px;
@@ -58,7 +58,7 @@ h1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
         margin-right: 20px;
         margin-left: 20x;}  
     
-    footer {position:relative;
+    .fixed-bottom {position:relative;
         height: 50px;
         font-size: 20px;
         color: #cccccc;
@@ -93,4 +93,3 @@ h1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
     border-width: 10px;
 border-color: palegoldenrod;
     }
-body {background-image: url("C:\Users\adamn\Desktop\homework\Bootstrap-Portfolio\assets\images\high-resolution-grey-brick-texture-thumb34.jpg")} 
